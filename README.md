@@ -19,3 +19,7 @@ On Hadoop:
 python MovieRatings.py -r hadoop --hadoop-streaming-jar /usr/hdp/current/hadoop-mapreduce-client/hadoop-streaming.jar u.data
 python MoviePopularityRatings.py -r hadoop --hadoop-streaming-jar /usr/hdp/current/hadoop-mapreduce-client/hadoop-streaming.jar u.data
 
+Data file:
+
+Download from:
+https://grouplens.org/datasets/movielens/100k/
